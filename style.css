@@ -1,0 +1,21 @@
+.flex-container {
+    display: flex;
+    /* flex-direction: ; */
+    height: 100vh;
+    gap: 10px;
+}
+
+.item-1 {
+    background-color: blue;
+    flex-grow: 1;
+}
+
+.item-2 {
+    background-color: bisque;
+    flex-grow: 3;
+}
+
+.item-3 {
+    background-color: rgb(147, 7, 131);
+    flex-grow: 1;
+}

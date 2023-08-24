@@ -1,0 +1,43 @@
+.flex-container {
+    display: flex;
+    height: 100vh;
+    width: auto;
+    justify-content: space-between;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item-1 {
+    background-color: blue;
+    flex-basis: 45%;
+    width: 50%;
+  
+}
+
+.item-2 {
+    background-color: bisque;
+    flex-basis: 45%;
+    width: 50%;
+ 
+}
+
+.item-3 {
+    background-color: rgb(147, 7, 131);
+    flex-basis: 45%;
+    width: 50%;
+ 
+}
+
+.item-4 {
+    background-color: rgb(97, 162, 59);
+    flex-basis: 45%;
+    width: 50%;
+}
+
+.item-5 {
+    background-color: rgb(159, 123, 155);
+    flex-basis: 45%;
+    width: 50%;
+}
+
